@@ -9,4 +9,4 @@ def walk
 end
 end
 
-Nancy = pe
+"Nancy" = person.new
